@@ -32,3 +32,5 @@ async function deleteTask(index) {
 }
 
 loadTasks();
+
+console.log("webhook test");
